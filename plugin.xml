@@ -100,33 +100,33 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework custom="true" src="src/ios/Crashlytics/Fabric.framework" />
 
 
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebasePerformance.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleToolboxForMac.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FIRAnalyticsConnector.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAnalytics.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleAppMeasurement.framework" />		
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseABTesting.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAuth.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseCore.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseCoreDiagnostics.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseDatabase.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebasePerformance.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/GoogleToolboxForMac.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FIRAnalyticsConnector.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAnalytics.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/GoogleAppMeasurement.framework" />		
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseABTesting.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAuth.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseCore.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseCoreDiagnostics.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseDatabase.framework" />
 		<!-- <framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseFirestore.framework" /> -->
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseFunctions.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseInstanceID.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseMessaging.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseRemoteConfig.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseStorage.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GTMSessionFetcher.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleDataTransport.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleDataTransportCCTSupport.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleUtilities.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/absl.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/grpc.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/grpcpp.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/leveldb.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/nanopb.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/openssl_grpc.framework" />
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/protobuf.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseFunctions.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseInstanceID.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseMessaging.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseRemoteConfig.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/FirebaseStorage.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/GTMSessionFetcher.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/GoogleDataTransport.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/GoogleDataTransportCCTSupport.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/GoogleUtilities.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/absl.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/grpc.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/grpcpp.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/leveldb.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/nanopb.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/openssl_grpc.framework" />
+		<framework embed="true" custom="true" src="src/ios/Firebase/Firebase_New/protobuf.framework" />
 
 		<!--
 		<framework custom="true" src="src/ios/Firebase/Analytics/GoogleAppMeasurement.framework" />
