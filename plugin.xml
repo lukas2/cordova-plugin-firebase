@@ -100,9 +100,9 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework custom="true" src="src/ios/Crashlytics/Fabric.framework" />
 
 
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FIRAnalyticsConnector.framework"\>
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAnalytics.framework"\>
-		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleAppMeasurement.framework"\>		
+		<framework custom="true" src="src/ios/Firebase/Firebase_New/FIRAnalyticsConnector.framework" />
+		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAnalytics.framework" />
+		<framework custom="true" src="src/ios/Firebase/Firebase_New/GoogleAppMeasurement.framework" />		
 		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseABTesting.framework" />
 		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseAuth.framework" />
 		<framework custom="true" src="src/ios/Firebase/Firebase_New/FirebaseCore.framework" />
