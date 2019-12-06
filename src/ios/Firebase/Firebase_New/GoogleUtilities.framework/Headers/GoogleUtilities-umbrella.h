@@ -13,7 +13,6 @@
 #import "GULLoggerLevel.h"
 #import "GULLoggerCodes.h"
 #import "GULNSData+zlib.h"
-#import "GULSecureCoding.h"
 
 FOUNDATION_EXPORT double GoogleUtilitiesVersionNumber;
 FOUNDATION_EXPORT const unsigned char GoogleUtilitiesVersionString[];
