@@ -4,21 +4,93 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/GTMDebugSelectorValidation.h</key>
+		<data>
+		AOmwXwdRzqyU9zBaOz6AZ/j3HUs=
+		</data>
+		<key>Headers/GTMDebugThreadValidation.h</key>
+		<data>
+		ufLEPuSnlBD+3Vj2JF0W9dd1LRA=
+		</data>
 		<key>Headers/GTMDefines.h</key>
 		<data>
 		uVGYkzAAGA6yd7+AzR4YtfmEXQI=
+		</data>
+		<key>Headers/GTMGeometryUtils.h</key>
+		<data>
+		XqNNoLDyd4sjAEsgc4zkPWPS5bk=
+		</data>
+		<key>Headers/GTMLocalizedString.h</key>
+		<data>
+		agjBv7QU5B/pEMgHRSFbTJp4Azo=
 		</data>
 		<key>Headers/GTMLogger.h</key>
 		<data>
 		OmRuSF6h+YlJBSI5GTZekaDNvGQ=
 		</data>
+		<key>Headers/GTMMethodCheck.h</key>
+		<data>
+		TVsdzuIPq74vWNS9GazJnMRLZrg=
+		</data>
 		<key>Headers/GTMNSData+zlib.h</key>
 		<data>
 		k1bO1+UoC/bV7fbU0JReGfE4qmo=
 		</data>
+		<key>Headers/GTMNSDictionary+URLArguments.h</key>
+		<data>
+		CMLY4xyy1xs0FmZV8yfJgx99G14=
+		</data>
+		<key>Headers/GTMNSFileHandle+UniqueName.h</key>
+		<data>
+		fsqzSHI7rldGO4DQmqAHEEZJeuk=
+		</data>
+		<key>Headers/GTMNSObject+KeyValueObserving.h</key>
+		<data>
+		7dptiTFEdDigcW/MlfSrEose/mI=
+		</data>
+		<key>Headers/GTMNSScanner+JSON.h</key>
+		<data>
+		zskVu7kf978EEqEcX2G4RjHiMR4=
+		</data>
+		<key>Headers/GTMNSString+HTML.h</key>
+		<data>
+		VMSg/K6OGGMWlysPq/RO1b0ZJc8=
+		</data>
+		<key>Headers/GTMNSString+URLArguments.h</key>
+		<data>
+		ips8wXBEK8crK2K0oS0JPgd8L9o=
+		</data>
+		<key>Headers/GTMNSString+XML.h</key>
+		<data>
+		c9cIQjPwDw86ennEX6DmMDg2CYk=
+		</data>
+		<key>Headers/GTMNSThread+Blocks.h</key>
+		<data>
+		6/YOw6VsLCXbQDD51v6TtXax8OU=
+		</data>
+		<key>Headers/GTMRegex.h</key>
+		<data>
+		Lp8Ulrz/Hdrfd4KkA+zfXSTArKI=
+		</data>
+		<key>Headers/GTMStringEncoding.h</key>
+		<data>
+		Ybo+2cQFEDsVVsx/lJEkEanERtc=
+		</data>
+		<key>Headers/GTMSystemVersion.h</key>
+		<data>
+		wRczyrVD1QHfd8CwPiAkTIPRVr4=
+		</data>
+		<key>Headers/GTMTypeCasting.h</key>
+		<data>
+		VIRBIOXfkC6dNCJoKXYE31GwyHs=
+		</data>
+		<key>Headers/GTMURLBuilder.h</key>
+		<data>
+		mScf8CC87buvvoKjqy+cYw4Ef+8=
+		</data>
 		<key>Headers/GoogleToolboxForMac-umbrella.h</key>
 		<data>
-		XcXiPqicvCJxhr3RSoqcg+AqV8s=
+		Y2sxaAzkCyu8CQ21PToq2QRJBGI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -31,6 +103,28 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/GTMDebugSelectorValidation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AOmwXwdRzqyU9zBaOz6AZ/j3HUs=
+			</data>
+			<key>hash2</key>
+			<data>
+			GEVsGtKEQzYfiO24CPRPG+PoRa0Svm+inCIsWRODjx4=
+			</data>
+		</dict>
+		<key>Headers/GTMDebugThreadValidation.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ufLEPuSnlBD+3Vj2JF0W9dd1LRA=
+			</data>
+			<key>hash2</key>
+			<data>
+			LUSLqnMxNRAN2TIOTlqqDAGKnv5NmjmIt42RgbwlbLc=
+			</data>
+		</dict>
 		<key>Headers/GTMDefines.h</key>
 		<dict>
 			<key>hash</key>
@@ -40,6 +134,28 @@
 			<key>hash2</key>
 			<data>
 			EvpeXAkFTcyMp9bCJUuPOqNipmzNUd+Xrw+VJ7UqNy0=
+			</data>
+		</dict>
+		<key>Headers/GTMGeometryUtils.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XqNNoLDyd4sjAEsgc4zkPWPS5bk=
+			</data>
+			<key>hash2</key>
+			<data>
+			hxOmwJQhcXbg8MqBJFoivTyanwowRswU/4pOU8HfGdw=
+			</data>
+		</dict>
+		<key>Headers/GTMLocalizedString.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			agjBv7QU5B/pEMgHRSFbTJp4Azo=
+			</data>
+			<key>hash2</key>
+			<data>
+			PGo+THhOFJCFqhMemNlYZRG795Ff93CoukUk3BhBAt0=
 			</data>
 		</dict>
 		<key>Headers/GTMLogger.h</key>
@@ -53,6 +169,17 @@
 			hFaG9/JiYkfawbcw6X5Fot3EeDqkCbtoZLbhANRT3AM=
 			</data>
 		</dict>
+		<key>Headers/GTMMethodCheck.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TVsdzuIPq74vWNS9GazJnMRLZrg=
+			</data>
+			<key>hash2</key>
+			<data>
+			dINaOQkNn5zMmCXnIMGGndmVqhKENUQ0W+3pOv7AVsA=
+			</data>
+		</dict>
 		<key>Headers/GTMNSData+zlib.h</key>
 		<dict>
 			<key>hash</key>
@@ -64,15 +191,158 @@
 			SOeeKCPkAEVtIlAI7+B/lUNYLKeDMVmuDfaSk4RR3Mo=
 			</data>
 		</dict>
+		<key>Headers/GTMNSDictionary+URLArguments.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CMLY4xyy1xs0FmZV8yfJgx99G14=
+			</data>
+			<key>hash2</key>
+			<data>
+			ucz70wxkOUbODe84Ppw720yHfUQvMDc8uukuYqh//1Y=
+			</data>
+		</dict>
+		<key>Headers/GTMNSFileHandle+UniqueName.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fsqzSHI7rldGO4DQmqAHEEZJeuk=
+			</data>
+			<key>hash2</key>
+			<data>
+			XjugqVKuKZgSTmcQcIeo1fzVdMKQqiguVaaJhGUi06M=
+			</data>
+		</dict>
+		<key>Headers/GTMNSObject+KeyValueObserving.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7dptiTFEdDigcW/MlfSrEose/mI=
+			</data>
+			<key>hash2</key>
+			<data>
+			BcMvVaigm6bDkAQ/QUnDrO1xB72Yw+12f5B+4ocGlZ0=
+			</data>
+		</dict>
+		<key>Headers/GTMNSScanner+JSON.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zskVu7kf978EEqEcX2G4RjHiMR4=
+			</data>
+			<key>hash2</key>
+			<data>
+			HDF2Tg6i76pUZqaJddG824OlDqf0AegNWV6hK9cRT6M=
+			</data>
+		</dict>
+		<key>Headers/GTMNSString+HTML.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VMSg/K6OGGMWlysPq/RO1b0ZJc8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Oi3QiDEkvrryKSgjT6Py8xWQeeBTbkwwfmaCeKT5uVg=
+			</data>
+		</dict>
+		<key>Headers/GTMNSString+URLArguments.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ips8wXBEK8crK2K0oS0JPgd8L9o=
+			</data>
+			<key>hash2</key>
+			<data>
+			UutpyHfK9Mdw/DONimY7sMbOh5k3QMLCdhY4WsHT8qE=
+			</data>
+		</dict>
+		<key>Headers/GTMNSString+XML.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c9cIQjPwDw86ennEX6DmMDg2CYk=
+			</data>
+			<key>hash2</key>
+			<data>
+			3iyMifhF+z5yRfosBkWNLWMIFyCBQ2r9bnd3c39r558=
+			</data>
+		</dict>
+		<key>Headers/GTMNSThread+Blocks.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6/YOw6VsLCXbQDD51v6TtXax8OU=
+			</data>
+			<key>hash2</key>
+			<data>
+			7F7NS+JEOwPYH0c1MitAW08LBjewyfA53heMJi6VwBo=
+			</data>
+		</dict>
+		<key>Headers/GTMRegex.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lp8Ulrz/Hdrfd4KkA+zfXSTArKI=
+			</data>
+			<key>hash2</key>
+			<data>
+			W/YT9n191JyWdtrQYp6JyIcKz7kLUhgVR/KgZQ4X6rU=
+			</data>
+		</dict>
+		<key>Headers/GTMStringEncoding.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ybo+2cQFEDsVVsx/lJEkEanERtc=
+			</data>
+			<key>hash2</key>
+			<data>
+			FPNHPaZhcfXt38QRM4F9Rbw1ghPvaLNlsi7F+TWbYwg=
+			</data>
+		</dict>
+		<key>Headers/GTMSystemVersion.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wRczyrVD1QHfd8CwPiAkTIPRVr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			3hU/xGAa8dTqZDhzzBJ8Bly+3DrLVH4YssWOQJT2/H0=
+			</data>
+		</dict>
+		<key>Headers/GTMTypeCasting.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VIRBIOXfkC6dNCJoKXYE31GwyHs=
+			</data>
+			<key>hash2</key>
+			<data>
+			n/q32Bx9WMXG9LN9KC19m63z6qlZbMqPYFbQ2WX2BOU=
+			</data>
+		</dict>
+		<key>Headers/GTMURLBuilder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mScf8CC87buvvoKjqy+cYw4Ef+8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7ILkbNinvsn2wbtbCGuPOJa9r4FsoXYkCWw61yyamUM=
+			</data>
+		</dict>
 		<key>Headers/GoogleToolboxForMac-umbrella.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XcXiPqicvCJxhr3RSoqcg+AqV8s=
+			Y2sxaAzkCyu8CQ21PToq2QRJBGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Njf4Vn1+rqD7RUxH1T5w41+kRuUd2dluTvaPWahzIk=
+			rdCgLfmelEovoDipBCtIy7dh60hV7QuiFGUAjIFQsV8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
