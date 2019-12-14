@@ -94,14 +94,14 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<header-file src="src/ios/FirebasePlugin.h" />
 		<source-file src="src/ios/FirebasePlugin.m" />
 
-		<framework src="Firebase/Core" type="podspec" spec="6.13.0"/>
-		<framework src="Firebase/Auth" type="podspec" spec="6.13.0"/>
-		<framework src="Firebase/Messaging" type="podspec" spec="6.13.0"/>
-		<framework src="Firebase/Performance" type="podspec" spec="6.13.0"/>
-		<framework src="Firebase/RemoteConfig" type="podspec" spec="6.13.0"/>
-		<framework src="Firebase/ABTesting" type="podspec" spec="6.13.0"/>
+		<framework src="Firebase/Core" type="podspec" spec="6.14.0"/>
+		<framework src="Firebase/Auth" type="podspec" spec="6.14.0"/>
+		<framework src="Firebase/Messaging" type="podspec" spec="6.14.0"/>
+		<framework src="Firebase/Performance" type="podspec" spec="6.14.0"/>
+		<framework src="Firebase/RemoteConfig" type="podspec" spec="6.14.0"/>
+		<framework src="Firebase/ABTesting" type="podspec" spec="6.1.0"/>
 		<framework src="Fabric" type="podspec" spec="1.10.2"/>
-		<framework src="Crashlytics" type="podspec" spec="3.13.4"/>
+		<framework src="Crashlytics" type="podspec" spec="3.14.0"/>
 	</platform>
 
 
