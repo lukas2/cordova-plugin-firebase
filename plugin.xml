@@ -101,7 +101,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework src="Firebase/RemoteConfig" type="podspec" spec="6.13.0"/>
 		<framework src="Firebase/ABTesting" type="podspec" spec="6.13.0"/>
 		<framework src="Fabric" type="podspec" spec="1.10.2"/>
-		<framework src="Crashlytics" type="podspec" spec="3.14.0"/>
+		<framework src="Crashlytics" type="podspec" spec="3.13.4"/>
 	</platform>
 
 
