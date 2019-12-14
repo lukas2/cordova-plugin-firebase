@@ -94,6 +94,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<header-file src="src/ios/FirebasePlugin.h" />
 		<source-file src="src/ios/FirebasePlugin.m" />
 
+		<framework src="GoogleDataTransport" type="podspec" spec="3.2.0"/>
 		<framework src="Firebase/Core" type="podspec" spec="6.14.0"/>
 		<framework src="Firebase/Auth" type="podspec" spec="6.14.0"/>
 		<framework src="Firebase/Messaging" type="podspec" spec="6.14.0"/>
